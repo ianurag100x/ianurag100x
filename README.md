@@ -1,16 +1,30 @@
-## Hi there 👋
+![Header](https://github.com/ianurag100x/ianurag100x/blob/main/header.png)
 
-<!--
-**ianurag100x/ianurag100x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # 👋 Hi there -->
 
-Here are some ideas to get you started:
+I'm Anurag, a passionate software developer and tech enthusiast. With over 8 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “Do, or do not. There is no “try”
+
+# 🚀 Expertise
+
+Passionate about crafting interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. I've led teams, designed system guidelines, and upheld the highest standards in web performance and SEO.
+
+In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
+
+In addition to my professional pursuits, I've embraced the role of a "content creator" within the technology sphere. My approach is distinct; I aim to offer a fresh perspective on tech, blending insights with a dash of humor.
+
+Outside of the professional environment, I nurture a unique passion: creating "art" using exclusively CSS. This activity not only sharpens my technical prowess but also allows me to blend programming and creativity in a uniquely captivating way.
+
+# 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+# 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laura-grassi)
+HackerRank
+Leetcode
+Coddechef
