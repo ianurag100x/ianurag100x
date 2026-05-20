@@ -2,7 +2,7 @@
 
 <!-- # 👋 Hi there -->
 
-I'm Anurag, software developer with huge love for tech and hardware architectures, who aspires to be perfect backend developer. With over 2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Anurag, software developer with love for tech and hardware architectures, who aspires to be build something useful. With over 2 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 > “Do, or do not. There is no “try”
 
@@ -10,7 +10,7 @@ I'm Anurag, software developer with huge love for tech and hardware architecture
 
 Passionate about developing codebases that are easily readable, I specialize in web development, combining modern frameworks with best practice design patterns. I've been both on the creative side as well as on the developmkent side of many projects.
 
-In my professional journey, I've proudly served as a junior programmer, a role where I built features and also I get to learn how things work behind the scenes of any product. Beyond development, I always love to have responsibilities that makes me out as a leader, guiding my team with strategic oversight, and ensuring projects were executed efficiently in future.
+In my professional journey, I've proudly served as a junior programmer, a role where I built features and also I get to learn how things work behind the scenes of any product. Beyond development, I always love to have responsibilities that makes me come out as a leader, guiding my team with strategic oversight, and ensuring projects were executed efficiently in future.
 
 Outside of the professional environment, I tend to explore hardwares like computer hardware, GPUs. I always have ick to try various hardware technologies and seek what they have to offer.
 
@@ -22,6 +22,6 @@ Outside of the professional environment, I tend to explore hardwares like comput
 
 # 🌐 Socials:
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/anurag100x/) [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/anurag100x/)
 
 <!-- Badges from https://github.com/inttter/md-badges -->
